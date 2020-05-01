@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "myapp",
-    "slug": "myapp",
+    "name": "calculator",
+    "slug": "calc",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +23,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android":{
+      "package":"com.yididya.Calc"
     }
   }
 }
